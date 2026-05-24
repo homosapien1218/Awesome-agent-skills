@@ -1,8 +1,8 @@
 # Awesome Agent Skills
 
-> A curated, evaluated, daily-updated directory of 248 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
+> A curated, evaluated, daily-updated directory of 293 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--05--23-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-248-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-108-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--05--24-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-293-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-134-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -34,50 +34,50 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 6 | [doc-coauthoring](https://humangarden.ai/skills/doc-coauthoring/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | content writing | Guide users through a structured workflow for co-authoring documentation. Use when user… |
 | 7 | [docx](https://humangarden.ai/skills/docx/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill whenever the user wants to create, read, edit, or manipulate Word… |
 | 8 | [claude-api](https://humangarden.ai/skills/claude-api/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | methodology | Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill… |
-| 9 | [skill-creator](https://humangarden.ai/skills/skill-creator/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Create new skills, modify and improve existing skills, and measure skill performance.… |
-| 10 | [figma-use](https://humangarden.ai/skills/figma-use/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | **MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool… |
-| 11 | [figma-code-connect-components](https://humangarden.ai/skills/figma-code-connect-components/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Connects Figma design components to code components using Code Connect mapping tools.… |
-| 12 | [figma-generate-design](https://humangarden.ai/skills/figma-generate-design/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Use this skill alongside figma-use when the task involves translating an application… |
-| 13 | [figma-generate-library](https://humangarden.ai/skills/figma-generate-library/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build or update a professional-grade design system in Figma from a codebase. Use when… |
-| 14 | [chatgpt-apps](https://humangarden.ai/skills/chatgpt-apps/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine… |
-| 15 | [hatch-pet](https://humangarden.ai/skills/hatch-pet/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | general | Create, repair, validate, visually QA, and package Codex-compatible animated pets and… |
-| 16 | [imagegen](https://humangarden.ai/skills/imagegen/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | general | Generate or edit raster images when the task benefits from AI-created bitmap visuals… |
-| 17 | [xlsx](https://humangarden.ai/skills/xlsx/) | 3.9 (C 4.8 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill any time a spreadsheet file is the primary input or output. This means… |
-| 18 | [pptx](https://humangarden.ai/skills/pptx/) | 3.9 (C 4.8 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill any time a .pptx file is involved in any way — as input, output, or both.… |
-| 19 | [playwright-interactive](https://humangarden.ai/skills/playwright-interactive/) | 3.8 (C 4.7 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | personal system | Persistent browser and Electron interaction through `js_repl` for fast iterative UI… |
-| 20 | [figma-create-design-system-rules](https://humangarden.ai/skills/figma-create-design-system-rules/) | 3.8 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Generates custom design system rules for the user's codebase. Use when user says "create… |
-| 21 | [algorithmic-art](https://humangarden.ai/skills/algorithmic-art/) | 3.8 (C 4.5 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | content writing | Creating algorithmic art using p5.js with seeded randomness and interactive parameter… |
-| 22 | [security-ownership-map](https://humangarden.ai/skills/security-ownership-map/) | 3.8 (C 4.7 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | general | Analyze git repositories to build a security ownership topology (people-to-file),… |
-| 23 | [winui-app](https://humangarden.ai/skills/winui-app/) | 3.8 (C 4.8 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the… |
-| 24 | [mcp-builder](https://humangarden.ai/skills/mcp-builder/) | 3.8 (C 4.4 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | cli and api | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to… |
-| 25 | [pdf](https://humangarden.ai/skills/pdf/) | 3.8 (C 4.4 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill whenever the user wants to do anything with PDF files. This includes… |
-| 26 | [figma-implement-design](https://humangarden.ai/skills/figma-implement-design/) | 3.7 (C 4.6 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | content writing | Translates Figma designs into production-ready application code with 1:1 visual… |
-| 27 | [security-best-practices](https://humangarden.ai/skills/security-best-practices/) | 3.7 (C 4.5 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | methodology | Perform language and framework specific security best-practice reviews and suggest… |
-| 28 | [render-deploy](https://humangarden.ai/skills/render-deploy/) | 3.7 (C 4.3 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | crypto web3 | Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints,… |
-| 29 | [canvas-design](https://humangarden.ai/skills/canvas-design/) | 3.7 (C 4.3 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Create beautiful visual art in .png and .pdf documents using design philosophy. You… |
-| 30 | [security-threat-model](https://humangarden.ai/skills/security-threat-model/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | content writing | Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker… |
-| 31 | [migrate-to-codex](https://humangarden.ai/skills/migrate-to-codex/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Migrate supported instruction files, skills, agents, and MCP config into Codex project… |
-| 32 | [yeet](https://humangarden.ai/skills/yeet/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull… |
-| 33 | [screenshot](https://humangarden.ai/skills/screenshot/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | personal system | Use when the user explicitly asks for a desktop or system screenshot (full screen,… |
-| 34 | [cli-creator](https://humangarden.ai/skills/cli-creator/) | 3.6 (C 4.4 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples,… |
-| 35 | [define-goal](https://humangarden.ai/skills/define-goal/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Help the user define a concrete, measurable goal before starting work, especially when… |
-| 36 | [openai-docs](https://humangarden.ai/skills/openai-docs/) | 3.6 (C 4.6 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks how to build with OpenAI products or APIs and needs up-to-date… |
-| 37 | [speech](https://humangarden.ai/skills/speech/) | 3.6 (C 4.5 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks for text-to-speech narration or voiceover, accessibility reads,… |
-| 38 | [slack-gif-creator](https://humangarden.ai/skills/slack-gif-creator/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides… |
-| 39 | [frontend-design](https://humangarden.ai/skills/frontend-design/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Create distinctive, production-grade frontend interfaces with high design quality. Use… |
-| 40 | [aspnet-core](https://humangarden.ai/skills/aspnet-core/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build, review, refactor, or architect ASP.NET Core web applications using current… |
-| 41 | [jupyter-notebook](https://humangarden.ai/skills/jupyter-notebook/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | general | Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for… |
-| 42 | [plugin-creator](https://humangarden.ai/skills/plugin-creator/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Create and scaffold plugin directories for Codex with a required… |
-| 43 | [transcribe](https://humangarden.ai/skills/transcribe/) | 3.5 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Transcribe audio files to text with optional diarization and known-speaker hints. Use… |
-| 44 | [notion-spec-to-implementation](https://humangarden.ai/skills/notion-spec-to-implementation/) | 3.5 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Turn Notion specs into implementation plans, tasks, and progress tracking; use when… |
-| 45 | [netlify-deploy](https://humangarden.ai/skills/netlify-deploy/) | 3.5 (C 4.2 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user… |
-| 46 | [cloudflare-deploy](https://humangarden.ai/skills/cloudflare-deploy/) | 3.5 (C 4.1 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | general | Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related… |
-| 47 | [linear](https://humangarden.ai/skills/linear/) | 3.5 (C 4.2 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Manage issues, projects & team workflows in Linear. Use when the user wants to read,… |
-| 48 | [web-artifacts-builder](https://humangarden.ai/skills/web-artifacts-builder/) | 3.5 (C 4.1 · A 3.0) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using… |
-| 49 | [agent-customization](https://humangarden.ai/skills/agent-customization/) | 3.4 (C 4.3 · A 2.8) | — | methodology | High quality skill with clear triggers, specific outputs, and good scope. |
-| 50 | [playwright](https://humangarden.ai/skills/playwright/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the task requires automating a real browser from the terminal (navigation, form… |
+| 9 | [figma-use](https://humangarden.ai/skills/figma-use/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | **MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool… |
+| 10 | [figma-code-connect-components](https://humangarden.ai/skills/figma-code-connect-components/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Connects Figma design components to code components using Code Connect mapping tools.… |
+| 11 | [figma-generate-design](https://humangarden.ai/skills/figma-generate-design/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Use this skill alongside figma-use when the task involves translating an application… |
+| 12 | [figma-generate-library](https://humangarden.ai/skills/figma-generate-library/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build or update a professional-grade design system in Figma from a codebase. Use when… |
+| 13 | [chatgpt-apps](https://humangarden.ai/skills/chatgpt-apps/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine… |
+| 14 | [hatch-pet](https://humangarden.ai/skills/hatch-pet/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | general | Create, repair, validate, visually QA, and package Codex-compatible animated pets and… |
+| 15 | [xlsx](https://humangarden.ai/skills/xlsx/) | 3.9 (C 4.8 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill any time a spreadsheet file is the primary input or output. This means… |
+| 16 | [pptx](https://humangarden.ai/skills/pptx/) | 3.9 (C 4.8 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill any time a .pptx file is involved in any way — as input, output, or both.… |
+| 17 | [playwright-interactive](https://humangarden.ai/skills/playwright-interactive/) | 3.8 (C 4.7 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | personal system | Persistent browser and Electron interaction through `js_repl` for fast iterative UI… |
+| 18 | [figma-create-design-system-rules](https://humangarden.ai/skills/figma-create-design-system-rules/) | 3.8 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Generates custom design system rules for the user's codebase. Use when user says "create… |
+| 19 | [algorithmic-art](https://humangarden.ai/skills/algorithmic-art/) | 3.8 (C 4.5 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | content writing | Creating algorithmic art using p5.js with seeded randomness and interactive parameter… |
+| 20 | [security-ownership-map](https://humangarden.ai/skills/security-ownership-map/) | 3.8 (C 4.7 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | general | Analyze git repositories to build a security ownership topology (people-to-file),… |
+| 21 | [winui-app](https://humangarden.ai/skills/winui-app/) | 3.8 (C 4.8 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the… |
+| 22 | [pdf](https://humangarden.ai/skills/pdf/) | 3.8 (C 4.4 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill whenever the user wants to do anything with PDF files. This includes… |
+| 23 | [figma-implement-design](https://humangarden.ai/skills/figma-implement-design/) | 3.7 (C 4.6 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | content writing | Translates Figma designs into production-ready application code with 1:1 visual… |
+| 24 | [security-best-practices](https://humangarden.ai/skills/security-best-practices/) | 3.7 (C 4.5 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | methodology | Perform language and framework specific security best-practice reviews and suggest… |
+| 25 | [render-deploy](https://humangarden.ai/skills/render-deploy/) | 3.7 (C 4.3 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | crypto web3 | Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints,… |
+| 26 | [canvas-design](https://humangarden.ai/skills/canvas-design/) | 3.7 (C 4.3 · A 3.3) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Create beautiful visual art in .png and .pdf documents using design philosophy. You… |
+| 27 | [security-threat-model](https://humangarden.ai/skills/security-threat-model/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | content writing | Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker… |
+| 28 | [migrate-to-codex](https://humangarden.ai/skills/migrate-to-codex/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Migrate supported instruction files, skills, agents, and MCP config into Codex project… |
+| 29 | [yeet](https://humangarden.ai/skills/yeet/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull… |
+| 30 | [screenshot](https://humangarden.ai/skills/screenshot/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | personal system | Use when the user explicitly asks for a desktop or system screenshot (full screen,… |
+| 31 | [cli-creator](https://humangarden.ai/skills/cli-creator/) | 3.6 (C 4.4 · A 3.1) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples,… |
+| 32 | [define-goal](https://humangarden.ai/skills/define-goal/) | 3.6 (C 4.8 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Help the user define a concrete, measurable goal before starting work, especially when… |
+| 33 | [openai-docs](https://humangarden.ai/skills/openai-docs/) | 3.6 (C 4.6 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks how to build with OpenAI products or APIs and needs up-to-date… |
+| 34 | [speech](https://humangarden.ai/skills/speech/) | 3.6 (C 4.5 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks for text-to-speech narration or voiceover, accessibility reads,… |
+| 35 | [slack-gif-creator](https://humangarden.ai/skills/slack-gif-creator/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides… |
+| 36 | [frontend-design](https://humangarden.ai/skills/frontend-design/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Create distinctive, production-grade frontend interfaces with high design quality. Use… |
+| 37 | [aspnet-core](https://humangarden.ai/skills/aspnet-core/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build, review, refactor, or architect ASP.NET Core web applications using current… |
+| 38 | [jupyter-notebook](https://humangarden.ai/skills/jupyter-notebook/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | general | Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for… |
+| 39 | [plugin-creator](https://humangarden.ai/skills/plugin-creator/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Create and scaffold plugin directories for Codex with a required… |
+| 40 | [transcribe](https://humangarden.ai/skills/transcribe/) | 3.5 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Transcribe audio files to text with optional diarization and known-speaker hints. Use… |
+| 41 | [notion-spec-to-implementation](https://humangarden.ai/skills/notion-spec-to-implementation/) | 3.5 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Turn Notion specs into implementation plans, tasks, and progress tracking; use when… |
+| 42 | [netlify-deploy](https://humangarden.ai/skills/netlify-deploy/) | 3.5 (C 4.2 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user… |
+| 43 | [cloudflare-deploy](https://humangarden.ai/skills/cloudflare-deploy/) | 3.5 (C 4.1 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | general | Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related… |
+| 44 | [linear](https://humangarden.ai/skills/linear/) | 3.5 (C 4.2 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Manage issues, projects & team workflows in Linear. Use when the user wants to read,… |
+| 45 | [web-artifacts-builder](https://humangarden.ai/skills/web-artifacts-builder/) | 3.5 (C 4.1 · A 3.0) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using… |
+| 46 | [agent-customization](https://humangarden.ai/skills/agent-customization/) | 3.4 (C 4.3 · A 2.8) | — | methodology | High quality skill with clear triggers, specific outputs, and good scope. |
+| 47 | [playwright](https://humangarden.ai/skills/playwright/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the task requires automating a real browser from the terminal (navigation, form… |
+| 48 | [figma-create-new-file](https://humangarden.ai/skills/figma-create-new-file/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Create a new blank Figma file. Use when the user wants to create a new Figma design or… |
+| 49 | [gh-fix-ci](https://humangarden.ai/skills/gh-fix-ci/) | 3.4 (C 4.2 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub… |
+| 50 | [sentry](https://humangarden.ai/skills/sentry/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the user asks to inspect Sentry issues or events, summarize recent production… |
 
-**[See all 248 published skills →](https://humangarden.ai/skills/)**
+**[See all 293 published skills →](https://humangarden.ai/skills/)**
 
 ## By task / use case
 
@@ -109,9 +109,9 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 - [`chatgpt-apps`](https://humangarden.ai/skills/chatgpt-apps/) — Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and…
 - [`figma-create-design-system-rules`](https://humangarden.ai/skills/figma-create-design-system-rules/) — Generates custom design system rules for the user's codebase. Use when user says "create design system…
-- [`mcp-builder`](https://humangarden.ai/skills/mcp-builder/) — Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with…
 - [`figma-implement-design`](https://humangarden.ai/skills/figma-implement-design/) — Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when…
 - [`frontend-design`](https://humangarden.ai/skills/frontend-design/) — Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the…
+- [`aspnet-core`](https://humangarden.ai/skills/aspnet-core/) — Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET…
 
 ### Search Data
 
@@ -157,11 +157,11 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 [6 skills →](https://humangarden.ai/use-case/generate-image/)
 
-- [`imagegen`](https://humangarden.ai/skills/imagegen/) — Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos,…
 - [`algorithmic-art`](https://humangarden.ai/skills/algorithmic-art/) — Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this…
 - [`slack-gif-creator`](https://humangarden.ai/skills/slack-gif-creator/) — Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation…
 - [`ios-icon-gen`](https://humangarden.ai/skills/ios-icon-gen/) — Excellent skill for iOS icon generation.
 - [`mp-article-writor`](https://humangarden.ai/skills/mp-article-writor/) — 生成公众号「高效人生指北」的长文。当用户想把工作流探索、AI 工具测评、产品体验、个人实践、生活感悟等素材整理成公众号或少数派文章时使用。包括文章撰写、标题推荐、配图 prompt…
+- [`ai-image-generation`](https://humangarden.ai/skills/ai-image-generation/) — High quality skill with clear triggers and output.
 
 ### Refactor Code
 
@@ -406,7 +406,7 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [2 skills →](https://humangarden.ai/use-case/design-api/)
 
 - [`chatgpt-apps`](https://humangarden.ai/skills/chatgpt-apps/) — Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and…
-- [`mcp-builder`](https://humangarden.ai/skills/mcp-builder/) — Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with…
+- [`mcp-builder`](https://humangarden.ai/skills/mcp-builder/) — Good skill with clear triggers and scope, but could improve output specificity and self-containment.
 
 ### Design Ui
 
@@ -427,7 +427,6 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [2 skills →](https://humangarden.ai/use-case/extract-text/)
 
 - [`transcribe`](https://humangarden.ai/skills/transcribe/) — Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to…
-- [`i18n`](https://humangarden.ai/skills/i18n/) — High quality skill with clear triggers and scope.
 
 ### Fetch Api
 
@@ -566,7 +565,6 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 [2 skills →](https://humangarden.ai/use-case/translate-text/)
 
-- [`i18n`](https://humangarden.ai/skills/i18n/) — High quality skill with clear triggers and scope.
 - [`videocaptioner`](https://humangarden.ai/skills/videocaptioner/) — Process video subtitles — transcribe speech, optimize/translate text, burn styled subtitles into video. Use…
 
 ### Validate Data
@@ -580,8 +578,8 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 [2 skills →](https://humangarden.ai/use-case/write-agent-skill/)
 
-- [`skill-creator`](https://humangarden.ai/skills/skill-creator/) — Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to…
 - [`hermes-agent-skill-authoring`](https://humangarden.ai/skills/hermes-agent-skill-authoring/) — Excellent skill definition with clear triggers and output.
+- [`skill-creator`](https://humangarden.ai/skills/skill-creator/) — Excellent skill definition with clear triggers and scope.
 
 ### Write Blog Post
 
@@ -657,4 +655,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-05-23 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-05-24 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
