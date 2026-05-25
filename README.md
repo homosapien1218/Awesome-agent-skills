@@ -1,8 +1,8 @@
 # Awesome Agent Skills
 
-> A curated, evaluated, daily-updated directory of 293 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
+> A curated, evaluated, daily-updated directory of 301 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--05--24-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-293-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-134-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--05--25-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-301-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-137-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -77,7 +77,7 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 49 | [gh-fix-ci](https://humangarden.ai/skills/gh-fix-ci/) | 3.4 (C 4.2 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub… |
 | 50 | [sentry](https://humangarden.ai/skills/sentry/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the user asks to inspect Sentry issues or events, summarize recent production… |
 
-**[See all 293 published skills →](https://humangarden.ai/skills/)**
+**[See all 301 published skills →](https://humangarden.ai/skills/)**
 
 ## By task / use case
 
@@ -100,8 +100,8 @@ We organize skills by the task you're trying to accomplish. Each link below land
 - [`security-ownership-map`](https://humangarden.ai/skills/security-ownership-map/) — Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and…
 - [`security-threat-model`](https://humangarden.ai/skills/security-threat-model/) — Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse…
 - [`author-contributions`](https://humangarden.ai/skills/author-contributions/) — High quality skill with clear triggers and output.
-- [`eval-harness`](https://humangarden.ai/skills/eval-harness/) — High quality skill with clear triggers and output.
 - [`ctf-rev`](https://humangarden.ai/skills/ctf-rev/) — Solve CTF reverse engineering challenges using systematic analysis to find flags, keys, or passwords. Use…
+- [`kernel-dev-skill`](https://humangarden.ai/skills/kernel-dev-skill/) — Linux kernel development skill grounded in local references/labs and references/lectures materials. Use for…
 
 ### Generate Code
 
@@ -159,9 +159,9 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 - [`algorithmic-art`](https://humangarden.ai/skills/algorithmic-art/) — Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this…
 - [`slack-gif-creator`](https://humangarden.ai/skills/slack-gif-creator/) — Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation…
-- [`ios-icon-gen`](https://humangarden.ai/skills/ios-icon-gen/) — Excellent skill for iOS icon generation.
 - [`mp-article-writor`](https://humangarden.ai/skills/mp-article-writor/) — 生成公众号「高效人生指北」的长文。当用户想把工作流探索、AI 工具测评、产品体验、个人实践、生活感悟等素材整理成公众号或少数派文章时使用。包括文章撰写、标题推荐、配图 prompt…
 - [`ai-image-generation`](https://humangarden.ai/skills/ai-image-generation/) — High quality skill with clear triggers and output.
+- [`ios-icon-gen`](https://humangarden.ai/skills/ios-icon-gen/) — High quality skill with clear triggers and output.
 
 ### Refactor Code
 
@@ -178,10 +178,10 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [6 skills →](https://humangarden.ai/use-case/test-code/)
 
 - [`mem0-integrate`](https://humangarden.ai/skills/mem0-integrate/) — High quality skill with clear triggers and scope.
-- [`eval-harness`](https://humangarden.ai/skills/eval-harness/) — High quality skill with clear triggers and output.
 - [`eval-driven-dev`](https://humangarden.ai/skills/eval-driven-dev/) — High quality skill with clear triggers and scope.
 - [`implement-rfc`](https://humangarden.ai/skills/implement-rfc/) — High quality skill with clear trigger and scope, but limited reusability.
 - [`e2e`](https://humangarden.ai/skills/e2e/) — Write end-to-end tests for user flows using Cypress. Use when user asks to "write e2e tests", "/e2e", "add…
+- [`tdd`](https://humangarden.ai/skills/tdd/) — Guides test-driven development with red-green-refactor loop. Use when user wants to build features or fix…
 
 ### Analyze Document
 
@@ -221,7 +221,6 @@ We organize skills by the task you're trying to accomplish. Each link below land
 - [`security-threat-model`](https://humangarden.ai/skills/security-threat-model/) — Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse…
 - [`notion-knowledge-capture`](https://humangarden.ai/skills/notion-knowledge-capture/) — Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki…
 - [`eng-runbook`](https://humangarden.ai/skills/eng-runbook/) — Excellent skill with clear triggers and output.
-- [`investor-materials`](https://humangarden.ai/skills/investor-materials/) — Excellent skill with clear triggers and specific outputs.
 
 ### Audit Code
 
@@ -328,7 +327,6 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [3 skills →](https://humangarden.ai/use-case/write-report/)
 
 - [`notion-research-documentation`](https://humangarden.ai/skills/notion-research-documentation/) — Research across Notion and synthesize into structured documentation; use when gathering info from multiple…
-- [`investor-materials`](https://humangarden.ai/skills/investor-materials/) — Excellent skill with clear triggers and specific outputs.
 - [`lecture-skill`](https://humangarden.ai/skills/lecture-skill/) — CS 课程系统性学习 Skill。融合横纵分析法与结构化写作质检体系，用于深度学习一门计算机科学课程（含 lecture notes、syllabus、paper…
 
 ### Analyze Error
@@ -655,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-05-24 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-05-25 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
