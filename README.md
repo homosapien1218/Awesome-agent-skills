@@ -1,8 +1,8 @@
 # Awesome Agent Skills
 
-> A curated, evaluated, daily-updated directory of 317 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
+> A curated, evaluated, daily-updated directory of 322 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--06--01-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-317-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-147-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--06--02-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-322-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-148-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -77,7 +77,7 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 49 | [gh-fix-ci](https://humangarden.ai/skills/gh-fix-ci/) | 3.4 (C 4.2 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub… |
 | 50 | [sentry](https://humangarden.ai/skills/sentry/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the user asks to inspect Sentry issues or events, summarize recent production… |
 
-**[See all 317 published skills →](https://humangarden.ai/skills/)**
+**[See all 322 published skills →](https://humangarden.ai/skills/)**
 
 ## By task / use case
 
@@ -89,9 +89,9 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 - [`notion-research-documentation`](https://humangarden.ai/skills/notion-research-documentation/) — Research across Notion and synthesize into structured documentation; use when gathering info from multiple…
 - [`elasticsearch-onboarding`](https://humangarden.ai/skills/elasticsearch-onboarding/) — Excellent skill with clear triggers and structured output.
-- [`exploratory-data-analysis`](https://humangarden.ai/skills/exploratory-data-analysis/) — High quality skill with clear triggers and output.
 - [`nlss`](https://humangarden.ai/skills/nlss/) — Workspace-first R statistics suite with subskills and agent-run metaskills (including run-demo for guided…
 - [`redbook`](https://humangarden.ai/skills/redbook/) — Search, read, analyze, and automate Xiaohongshu (小红书) content via CLI
+- [`cpu-profile-analysis`](https://humangarden.ai/skills/cpu-profile-analysis/) — High quality skill with clear triggers and scope.
 
 ### Analyze Code
 
@@ -319,8 +319,8 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [3 skills →](https://humangarden.ai/use-case/visualize-data/)
 
 - [`security-ownership-map`](https://humangarden.ai/skills/security-ownership-map/) — Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and…
-- [`exploratory-data-analysis`](https://humangarden.ai/skills/exploratory-data-analysis/) — High quality skill with clear triggers and output.
 - [`scientific-eda`](https://humangarden.ai/skills/scientific-eda/) — Defensive exploratory data analysis for scientific data (CSV, FASTA, etc.). Context-first, human-guided; one…
+- [`exploratory-data-analysis`](https://humangarden.ai/skills/exploratory-data-analysis/) — High quality skill with clear triggers and output.
 
 ### Write Report
 
@@ -653,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-06-01 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-06-02 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
