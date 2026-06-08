@@ -2,7 +2,7 @@
 
 > A curated, evaluated, daily-updated directory of 328 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--06--07-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-328-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-149-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--06--08-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-328-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-149-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -33,7 +33,7 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 5 | [github-zarazhangrui-follow-builders](https://humangarden.ai/skills/github-zarazhangrui-follow-builders/) | 4.0 (A only) | [zarazhangrui](https://humangarden.ai/builders/zarazhangrui/) | general | AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their… |
 | 6 | [doc-coauthoring](https://humangarden.ai/skills/doc-coauthoring/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | content writing | Guide users through a structured workflow for co-authoring documentation. Use when user… |
 | 7 | [docx](https://humangarden.ai/skills/docx/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | document generation | Use this skill whenever the user wants to create, read, edit, or manipulate Word… |
-| 8 | [claude-api](https://humangarden.ai/skills/claude-api/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | methodology | Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill… |
+| 8 | [claude-api](https://humangarden.ai/skills/claude-api/) | 4.0 (C 4.8 · A 3.4) | [anthropics](https://humangarden.ai/builders/anthropics/) | methodology | Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming,… |
 | 9 | [figma-use](https://humangarden.ai/skills/figma-use/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | **MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool… |
 | 10 | [figma-code-connect-components](https://humangarden.ai/skills/figma-code-connect-components/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Connects Figma design components to code components using Code Connect mapping tools.… |
 | 11 | [figma-generate-design](https://humangarden.ai/skills/figma-generate-design/) | 3.9 (C 4.8 · A 3.2) | [openai](https://humangarden.ai/builders/openai/) | content writing | Use this skill alongside figma-use when the task involves translating an application… |
@@ -167,7 +167,7 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 [6 skills →](https://humangarden.ai/use-case/refactor-code/)
 
-- [`claude-api`](https://humangarden.ai/skills/claude-api/) — Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should include prompt…
+- [`claude-api`](https://humangarden.ai/skills/claude-api/) — Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents,…
 - [`chatgpt-apps`](https://humangarden.ai/skills/chatgpt-apps/) — Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and…
 - [`winui-app`](https://humangarden.ai/skills/winui-app/) — Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using…
 - [`aspnet-core`](https://humangarden.ai/skills/aspnet-core/) — Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET…
@@ -270,7 +270,7 @@ We organize skills by the task you're trying to accomplish. Each link below land
 
 [3 skills →](https://humangarden.ai/use-case/debug-code/)
 
-- [`claude-api`](https://humangarden.ai/skills/claude-api/) — Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should include prompt…
+- [`claude-api`](https://humangarden.ai/skills/claude-api/) — Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents,…
 - [`luamake`](https://humangarden.ai/skills/luamake/) — Luamake 构建系统指南——用于当前项目的 `luamake` / `make.lua` / Ninja 生成流程。当用户需要编写、修改、排查或理解…
 - [`kernel-dev-skill`](https://humangarden.ai/skills/kernel-dev-skill/) — Linux kernel development skill grounded in local references/labs and references/lectures materials. Use for…
 
@@ -653,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-06-07 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-06-08 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
