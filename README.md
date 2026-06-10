@@ -2,7 +2,7 @@
 
 > A curated, evaluated, daily-updated directory of 329 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--06--09-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-329-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-150-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--06--10-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-329-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-150-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -61,7 +61,7 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 33 | [openai-docs](https://humangarden.ai/skills/openai-docs/) | 3.6 (C 4.6 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks how to build with OpenAI products or APIs, asks about Codex… |
 | 34 | [speech](https://humangarden.ai/skills/speech/) | 3.6 (C 4.5 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | methodology | Use when the user asks for text-to-speech narration or voiceover, accessibility reads,… |
 | 35 | [slack-gif-creator](https://humangarden.ai/skills/slack-gif-creator/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides… |
-| 36 | [frontend-design](https://humangarden.ai/skills/frontend-design/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | general | Create distinctive, production-grade frontend interfaces with high design quality. Use… |
+| 36 | [frontend-design](https://humangarden.ai/skills/frontend-design/) | 3.6 (C 4.3 · A 3.1) | [anthropics](https://humangarden.ai/builders/anthropics/) | cli and api | Guidance for distinctive, intentional visual design when building new UI or reshaping an… |
 | 37 | [aspnet-core](https://humangarden.ai/skills/aspnet-core/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Build, review, refactor, or architect ASP.NET Core web applications using current… |
 | 38 | [jupyter-notebook](https://humangarden.ai/skills/jupyter-notebook/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | general | Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for… |
 | 39 | [plugin-creator](https://humangarden.ai/skills/plugin-creator/) | 3.5 (C 4.3 · A 3.0) | [openai](https://humangarden.ai/builders/openai/) | agent infrastructure | Create and scaffold plugin directories for Codex with a required… |
@@ -110,7 +110,7 @@ We organize skills by the task you're trying to accomplish. Each link below land
 - [`chatgpt-apps`](https://humangarden.ai/skills/chatgpt-apps/) — Build, scaffold, refactor, and troubleshoot ChatGPT Apps SDK applications that combine an MCP server and…
 - [`figma-create-design-system-rules`](https://humangarden.ai/skills/figma-create-design-system-rules/) — Generates custom design system rules for the user's codebase. Use when user says "create design system…
 - [`figma-implement-design`](https://humangarden.ai/skills/figma-implement-design/) — Translates Figma designs into production-ready application code with 1:1 visual fidelity. Use when…
-- [`frontend-design`](https://humangarden.ai/skills/frontend-design/) — Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the…
+- [`frontend-design`](https://humangarden.ai/skills/frontend-design/) — Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps…
 - [`aspnet-core`](https://humangarden.ai/skills/aspnet-core/) — Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET…
 
 ### Search Data
@@ -279,7 +279,7 @@ We organize skills by the task you're trying to accomplish. Each link below land
 [3 skills →](https://humangarden.ai/use-case/design-website/)
 
 - [`figma-generate-design`](https://humangarden.ai/skills/figma-generate-design/) — Use this skill alongside figma-use when the task involves translating an application page, view, or…
-- [`frontend-design`](https://humangarden.ai/skills/frontend-design/) — Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the…
+- [`frontend-design`](https://humangarden.ai/skills/frontend-design/) — Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps…
 - [`web-artifacts-builder`](https://humangarden.ai/skills/web-artifacts-builder/) — Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web…
 
 ### Generate Report
@@ -653,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-06-09 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-06-10 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
