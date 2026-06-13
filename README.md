@@ -1,8 +1,8 @@
 # Awesome Agent Skills
 
-> A curated, evaluated, daily-updated directory of 335 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
+> A curated, evaluated, daily-updated directory of 343 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--06--12-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-335-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-151-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--06--13-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-343-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-158-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -77,7 +77,7 @@ Sorted by composite score. C = Craft (D1–D5); A = Adoption (A1–A5).
 | 49 | [gh-fix-ci](https://humangarden.ai/skills/gh-fix-ci/) | 3.4 (C 4.2 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | general | Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub… |
 | 50 | [sentry](https://humangarden.ai/skills/sentry/) | 3.4 (C 4.3 · A 2.9) | [openai](https://humangarden.ai/builders/openai/) | cli and api | Use when the user asks to inspect Sentry issues or events, summarize recent production… |
 
-**[See all 335 published skills →](https://humangarden.ai/skills/)**
+**[See all 343 published skills →](https://humangarden.ai/skills/)**
 
 ## By task / use case
 
@@ -653,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-06-12 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-06-13 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
