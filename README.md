@@ -2,7 +2,7 @@
 
 > A curated, evaluated, daily-updated directory of 346 agent skills for Claude, ChatGPT, and other AI agents. Each skill is scored on **Craft** (rubric quality) and **Adoption** (maintenance, docs, license, traction). The full directory — with detailed evaluations, builder profiles, and 66 task-oriented landing pages — lives at **[humangarden.ai](https://humangarden.ai)**.
 
-[![Last updated](https://img.shields.io/badge/updated-2026--06--16-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-346-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-160-orange)](https://humangarden.ai/builders/)
+[![Last updated](https://img.shields.io/badge/updated-2026--06--17-blue)](https://humangarden.ai) [![Skills tracked](https://img.shields.io/badge/skills-346-orange)](https://humangarden.ai/skills/) [![Builders](https://img.shields.io/badge/builders-160-orange)](https://humangarden.ai/builders/)
 
 **🌐 [Browse the full directory →](https://humangarden.ai)** — same data, evaluated UI, builder profiles, use-case landing pages.
 
@@ -653,4 +653,4 @@ Anything published as a SKILL.md or maintained by a recognized builder will get 
 
 ---
 
-**Generated 2026-06-16 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
+**Generated 2026-06-17 from [humangarden.ai](https://humangarden.ai).** If a link looks stale, the next daily run will refresh it.
